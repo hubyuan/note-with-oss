@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class NoteWithOssApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(NoteWithOssApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(NoteWithOssApplication.class, args);
+    }
 
 }
