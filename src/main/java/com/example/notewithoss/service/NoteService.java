@@ -6,4 +6,12 @@ package com.example.notewithoss.service;
  */
 public interface NoteService {
 
+    void push();
+
+    void pull();
+
+    void init();
+
+    void origin();
+
 }

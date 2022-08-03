@@ -10,4 +10,26 @@ import org.springframework.stereotype.Service;
 @Service
 public class NoteServiceImpl implements NoteService {
 
+    @Override
+    public void push() {
+
+    }
+
+    @Override
+    public void pull() {
+
+    }
+
+    @Override
+    public void init() {
+        //connect 远程库
+
+        //
+
+    }
+
+    @Override
+    public void origin() {
+
+    }
 }
